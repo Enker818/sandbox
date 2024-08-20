@@ -1,9 +1,1 @@
-Test
-
-echo "# sandbox" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Enker818/sandbox.git
-git push -u origin main
+if you device got harmed/problems thats your responsbility when you use any file from here.
